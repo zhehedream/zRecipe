@@ -1,0 +1,11 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = 'zhehe.Recipe' // TODO
+version = '1.0-SNAPSHOT'
+description = 'Add more useful recipes to MC'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:7.0.0'
+}

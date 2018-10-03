@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "zrecipe",
+        "name": "ZRecipe",
+        "version": "1.0",
+        "description": "Add more useful recipes to MC",
+        "authorList": [
+            "zhehe"
+        ],
+        "dependencies": [
+            "spongeapi@7.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.0.0"
+        ]
+    }
+]
